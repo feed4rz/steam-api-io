@@ -1,0 +1,24 @@
+{
+  "name": "steam-api-io",
+  "version": "1.0.0",
+  "description": "Module which provides access to all methods from https://steamapi.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feed4rz/steam-api-io.git"
+  },
+  "keywords": [
+    "steamapi.io",
+    "steamapi",
+    "steam"
+  ],
+  "author": "feed4rz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feed4rz/steam-api-io/issues"
+  },
+  "homepage": "https://github.com/feed4rz/steam-api-io#readme"
+}
